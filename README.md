@@ -24,6 +24,6 @@ The project was implemented in **Python** with the following libraries:
 - **Data Analysis**: `pandas`, `numpy`, `random`  
 - **Data Visualization**: `matplotlib`, `seaborn`, `mpl_toolkits.mplot3d`  
 - **Machine Learning**: `scikit-learn`  
-- **Deep Learning**: `torch`, `torchvision`  
+- **Deep Learning**: `PyTorch`, `torchvision`  
 
 ---
