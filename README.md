@@ -21,9 +21,9 @@ We explored both **traditional methods** and advanced techniques like **autoenco
 ## **Technologies Used**
 
 The project was implemented in **Python** with the following libraries:  
-- **Data Analysis**: `pandas`, `numpy`, `random`  
-- **Data Visualization**: `matplotlib`, `seaborn`, `mpl_toolkits.mplot3d`  
-- **Machine Learning**: `scikit-learn`  
-- **Deep Learning**: `PyTorch`, `torchvision`  
+- **Data Analysis**: `pandas`, `numpy`, `random`
+- **Data Visualization**: `matplotlib`, `seaborn`, `mpl_toolkits.mplot3d`
+- **Machine Learning**: `scikit-learn`
+- **Deep Learning**: `PyTorch`, `torchvision`
 
 ---
