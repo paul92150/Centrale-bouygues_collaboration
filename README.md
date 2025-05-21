@@ -1,4 +1,4 @@
-# **EI_Bouygues: IoT Sensor Anomaly Detection**
+# **CentraleSupélec/Bouygues: IoT Sensor Anomaly Detection**
 
 This project was conducted as part of an **Enseignement-Intégration (EI)** at **CentraleSupélec** in collaboration with **Bouygues**. The aim was to analyze data from IoT sensors to **detect anomalies**, determine their cause (system error, user misuse, or cyber-attacks), and visualize the results in an interpretable way.
 
